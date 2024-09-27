@@ -106,4 +106,4 @@ Så må du oppdatere rettighetene:
 FLUSH PRIVILEGES;
 ```
 10. ## Kjør telefonkatalogen
-Telefonkatalogen ligger i github repository. Den kan du laste ned å bruke på 
+Telefonkatalogen ligger i github repository. Det er to filer, en som er selve koden og en for databasen. I telefonkatalog_kobling.py må du bytte ut username og passord med ditt eget for at det skal fungere.
