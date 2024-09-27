@@ -106,3 +106,4 @@ Så må du oppdatere rettighetene:
 FLUSH PRIVILEGES;
 ```
 10. ## Kjør telefonkatalogen
+Telefonkatalogen ligger i github repository. Den kan du laste ned å bruke på 
