@@ -105,3 +105,4 @@ Så må du oppdatere rettighetene:
 ```
 FLUSH PRIVILEGES;
 ```
+10. ## Kjør telefonkatalogen
